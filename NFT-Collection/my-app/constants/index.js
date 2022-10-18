@@ -1,4 +1,6 @@
-export const abi =[
+export const NFT_CONTRACT_ADDRESS = "0x401cce6fe3aa5deBABF52d3f4b2DDB28b31B4F73"
+export const abi=
+[
     {
       "inputs": [
         {
@@ -61,4 +63,6 @@ export const abi =[
           "name": "approved",
           "type": "bool"
         }
-export const NFT_CONTRACT_ADDRESS = "0x401cce6fe3aa5deBABF52d3f4b2DDB28b31B4F73"
+      ]
+    }
+  ]
